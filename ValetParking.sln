@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValetParking", "ValetParking\ValetParking.csproj", "{3BD1D9A3-8345-43DB-AAE6-2AAAD18CD6D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValetParking.Tests", "ValetParking.Tests\ValetParking.Tests.csproj", "{7CB6F349-6E19-4258-B58F-FCBE81D100C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingTime", "ParkingTime\ParkingTime.csproj", "{AEB74BBB-F79B-443D-ABC9-B3C4CAAE4C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD1D9A3-8345-43DB-AAE6-2AAAD18CD6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD1D9A3-8345-43DB-AAE6-2AAAD18CD6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD1D9A3-8345-43DB-AAE6-2AAAD18CD6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD1D9A3-8345-43DB-AAE6-2AAAD18CD6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB6F349-6E19-4258-B58F-FCBE81D100C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB6F349-6E19-4258-B58F-FCBE81D100C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB6F349-6E19-4258-B58F-FCBE81D100C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB6F349-6E19-4258-B58F-FCBE81D100C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB74BBB-F79B-443D-ABC9-B3C4CAAE4C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB74BBB-F79B-443D-ABC9-B3C4CAAE4C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB74BBB-F79B-443D-ABC9-B3C4CAAE4C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB74BBB-F79B-443D-ABC9-B3C4CAAE4C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal
